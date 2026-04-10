@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Astha 👋
 
-<!--
-**astha1010699/astha1010699** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student (2nd Year)  
+💻 Aspiring Web Developer  
+🎨 Creative mind who loves designing interactive websites  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- HTML
+- CSS
+- JavaScript (Basics)
+
+---
+
+## 🌐 Projects
+🔹 Personal Portfolio Website  
+🔹 Outfit Selector Web App (in progress 👀)
+
+---
+
+## 📫 Connect with Me
+📧 Email: your@email.com  
+🌐 Portfolio: https://your-portfolio-link.com  
+💻 GitHub: https://github.com/astha1010699
