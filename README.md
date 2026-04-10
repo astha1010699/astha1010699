@@ -1,6 +1,6 @@
 # Hi, I'm Astha 👋
 
-🎓 BCA Student (2nd Year)  
+🎓 BCA Student (final Year)  
 💻 Aspiring Web Developer  
 🎨 Creative mind who loves designing interactive websites  
 
@@ -10,6 +10,8 @@
 - HTML
 - CSS
 - JavaScript (Basics)
+- ui&ux
+- python
 
 ---
 
@@ -20,6 +22,6 @@
 ---
 
 ## 📫 Connect with Me
-📧 Email: your@email.com  
+📧 Email: asthatanwar98@email.com  
 🌐 Portfolio: https://your-portfolio-link.com  
 💻 GitHub: https://github.com/astha1010699
