@@ -1,6 +1,6 @@
 # Hi, I'm Astha 👋
 
-🎓 BCA Student (final Year)  
+🎓 BCA graduate 
 💻 Aspiring Web Developer  
 🎨 Creative mind who loves designing interactive websites  
 
